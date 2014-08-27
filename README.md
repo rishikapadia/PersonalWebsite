@@ -1,4 +1,4 @@
 PersonalWebsite
 ===============
 
-Brainstorming ideas for my personal website.
+Brainstorming prototypes for my personal website.
